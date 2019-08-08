@@ -53,10 +53,10 @@ set maxvar 30000
 *BEFORE USE THE FOLLOWING NEED TO BE UPDATED:
 *Country/Round/Abbreviations
 global Country US	 
-global Round Round10
-global round 10
+global Round Round1
+global round 1
 global country US
-global CCRX USR10
+global CCRX USR1
 
 *Locals (Dont need to Update)
 local Country "$Country"
